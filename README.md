@@ -4,7 +4,7 @@ A simple, responsive website prototype for Showcase Cinemas built with HTML and 
 
 ## 🌐 Live Demo
 
-> _Add your GitHub Pages link or deployment link here if applicable._
+[> _Add your GitHub Pages link or deployment link here if applicable._](https://santhoshyadavally.github.io/ShowCaseCinemas/)
 
 ## 🚀 Features
 
