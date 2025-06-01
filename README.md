@@ -15,10 +15,3 @@ A stylish and responsive cinema landing page built using **HTML** and **CSS**. T
 - HTML5
 - CSS3 (Flexbox & Grid)
 
-## 📸 Demo
-
-*(Optional: Add a link if deployed via GitHub Pages or Netlify)*  
-[Live Demo](https://santhoshyadavally.github.io/ShowCaseCinemas/)
-
-## 📂 Folder Structure
-
