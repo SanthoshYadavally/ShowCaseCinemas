@@ -18,7 +18,7 @@ A stylish and responsive cinema landing page built using **HTML** and **CSS**. T
 ## 📸 Demo
 
 *(Optional: Add a link if deployed via GitHub Pages or Netlify)*  
-[Live Demo](https://your-username.github.io/showcase-cinemas/)
+[Live Demo](https://santhoshyadavally.github.io/ShowCaseCinemas/)
 
 ## 📂 Folder Structure
 
